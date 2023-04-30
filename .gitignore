@@ -1,0 +1,4 @@
+*.gv
+__pycache__/
+reportFiles/
+.DS_Store
